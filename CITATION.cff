@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Gallegos
+    given-names: Jonathan
+title: "Image Classification Project CS 770"
+version: 0.0.1
+date-released: 2025-04-28
+url: https://github.com/JonPGallegos/image_classification_covid
